@@ -25,7 +25,7 @@ const content = {
         }
     },
     en: {
-        brandTitle: 'Youssef Al-Sayyah',
+        brandTitle: 'Yousuf Al-Sayyah',
         brandSubtitle: 'Law Firm & Legal Consultations',
         heroTitle: 'Distinguished Legal Services',
         heroSubtitle: 'We protect your rights and provide you with the best legal services in the United Arab Emirates',
@@ -35,9 +35,9 @@ const content = {
         bookingTitle: 'Book Your Legal Consultation',
         aboutTitle: 'About Us',
         contactTitle: 'Contact Us',
-        aboutDescription: 'Youssef Al-Sayyah Law Firm and Legal Consultations is one of the leading law firms in the United Arab Emirates. We provide distinguished and specialized legal services in all branches of law. We believe that justice is a right for everyone and we strive to achieve the best results for our clients through a team of experienced and highly competent lawyers.',
+        aboutDescription: 'Yousuf Al-Sayyah Law Firm and Legal Consultations is one of the leading law firms in the United Arab Emirates. We provide distinguished and specialized legal services in all branches of law. We believe that justice is a right for everyone and we strive to achieve the best results for our clients through a team of experienced and highly competent lawyers.',
         footerDescription: 'A specialized law firm providing distinguished legal services in the United Arab Emirates',
-        copyright: '© 2024 Youssef Al-Sayyah Law Firm and Legal Consultations. All rights reserved.',
+        copyright: '© 2024 Yousuf Al-Sayyah Law Firm and Legal Consultations. All rights reserved.',
         languageText: 'العربية',
         placeholders: {
             fullName: 'Enter your full name',
